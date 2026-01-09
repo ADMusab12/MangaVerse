@@ -19,9 +19,9 @@
   <table>
     <tr>
       <td><img src="demo/d1.jpeg" width="200" alt="Home Screen"/></td>
-      <td><img src="demo/d1.jpeg" width="200" alt="Chapter Screen"/></td>
-      <td><img src="demo/d1.jpeg" width="200" alt="Reader"/></td>
-      <td><img src="demo/d1.jpeg" width="200" alt="Library"/></td>
+      <td><img src="demo/d2.jpeg" width="200" alt="Chapter Screen"/></td>
+      <td><img src="demo/d3.jpeg" width="200" alt="Reader"/></td>
+      <td><img src="demo/d4.jpeg" width="200" alt="Library"/></td>
     </tr>
   </table>
 </div>
